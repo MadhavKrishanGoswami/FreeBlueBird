@@ -1,4 +1,4 @@
-# Sociopedia
+# FreeBlueBird
 Full Stack Social Media Web App built with MERN
 
 ## Technologies used:
